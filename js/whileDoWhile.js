@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////função while e do while
 //while
-/*
+
 function random(min, max) {
     const r = Math.random() * (max - min) + min; 
     return Math.floor(r);
@@ -16,11 +16,11 @@ function random(min, max) {
 
 //Exercicio 1
 
-*/
+
 
 ///////////////////////////////////////////////////////do while
 
-/*
+
 let result = ''
 let i = 0;
 
@@ -30,4 +30,4 @@ do {
 } while (i < 5);
 
 console.log(result);
-*/
+
