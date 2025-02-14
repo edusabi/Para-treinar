@@ -1,5 +1,5 @@
 ////////////////////////////USANDO CLASS
-/*
+
 class Pessoa{
     constructor(nome, sobrenome) {
       this.nome = nome
@@ -25,7 +25,7 @@ const pessoa1 = new Pessoa('luis', 'Eduardo')
 console.log(pessoa1.comer())
 */
 
-/*
+
 class Passos{
     constructor(nome){
         this.nome = nome    
@@ -44,11 +44,11 @@ class Passos{
 const person1 = new Passos('Edu')
 person1.andar()
 console.log(person1)
-*/
+
 
 
 ////////////////////////////////VALIDANDO CPF COM CLASS
-/*
+
 // 705.484.450-52 070.987.720-03
 class ValidaCPF {
     constructor(cpfEnviado) {
@@ -103,4 +103,4 @@ class ValidaCPF {
   } else {
     console.log('CPF inválido');
   }
-*/  
+
