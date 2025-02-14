@@ -1,5 +1,5 @@
 //////////////USANDO FETCH API (GET)
-/*
+
 async function carregaPagina(el){
 
   try{
@@ -15,4 +15,4 @@ async function carregaPagina(el){
   }
 
 }
-*/
+
